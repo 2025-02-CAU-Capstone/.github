@@ -121,7 +121,5 @@
 | Frontend | React |
 | Backend | Spring Boot |
 | Database | PostgreSQL |
-| AI Model | - 매핑: SBERT (Sentence Transformers)
-- 카메라 인식: EasyOCR
-- STT 기반 강의 text 추출: Whisper |
+| AI Model | - 매핑: SBERT (Sentence Transformers)<br>- 카메라 인식: EasyOCR<br>- STT 기반 강의 text 추출: Whisper |
 | Hosting | AWS (EC2, RDS) |
