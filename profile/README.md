@@ -203,7 +203,7 @@ To implement a web-based learning support service that **automatically recommend
 3. **생성형 AI 기반 질문의 한계**
 
    * Hallucination으로 인한 오개념 학습 위험
-   * 정답 중심 응답으로 개념 이해 및 복습 유도에 한계=
+   * 정답 중심 응답으로 개념 이해 및 복습 유도에 한계 발생
 
 ### 📊 3.4 Evidence (근거)
 
