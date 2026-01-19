@@ -4,7 +4,6 @@
 
 ## 📘 Automated Mapping System Between Problems, Textbooks, and Lecture Chapters
 
----
 
 *Note: Korean Version of this document is available below.*
 
