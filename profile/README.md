@@ -1,6 +1,6 @@
 # 🌐 P2L – Problem to Lecture
 
-## 🎓 2025 Fall Semester Capstone Design (1) – Team 6
+## 🎓 Chung-Ang Univ. 2025 Fall Semester Capstone Design (1) – Team 6
 
 ## 📘 Automated Mapping System Between Problems, Textbooks, and Lecture Chapters
 
