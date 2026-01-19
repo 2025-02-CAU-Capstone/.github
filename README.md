@@ -1,3 +1,5 @@
+# P2L - Problem to Lecture
+
 ## 교재·문제 기반 인강 챕터 자동 매핑 시스템
 
 ### 1. Project Title (프로젝트 제목)
