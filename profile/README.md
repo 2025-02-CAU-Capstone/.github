@@ -131,7 +131,7 @@ To implement a web-based learning support service that **automatically recommend
 | Name        | Student ID | Role          | Responsibilities                                                                                      |
 | ----------- | ---------- | ------------- | ----------------------------------------------------------------------------------------------------- |
 | Guebeen Lee | 20235908   | AI / FE       | - AI model implementation for text extraction<br>- Frontend UI/UX development                         |
-| Mingyu Lee  | 20215143   | BE / FE / PM  | - Frontend, backend, and AI server development & deployment<br>- Project management and documentation |
+| Mingyu Lee  | 20215143   | BE / PM  | - Frontend, backend, and AI server development & deployment<br>- Project management and documentation |
 | Dongyun Ha  | 20212007   | AI / Planning | - Text similarity matching and STT AI model implementation<br>- Project planning and QA               |
 
 ---
@@ -277,7 +277,7 @@ To implement a web-based learning support service that **automatically recommend
 | 이름                | 학번       | 역할           | 상세 내용                                                                 |
 | ----------------- | -------- | ------------ | --------------------------------------------------------------------- |
 | 이규빈 (Guebeen Lee) | 20235908 | AI / FE      | - 텍스트 추출 AI 모델 implementation<br>- 프런트엔드측 UI/UX 구축                    |
-| 이민규 (Mingyu Lee)  | 20215143 | BE / FE / PM | - 프런트엔드, 백엔드 및 AI 서버 구축 및 배포<br>- Project Management 및 Documentations |
+| 이민규 (Mingyu Lee)  | 20215143 | BE / PM | - 프런트엔드, 백엔드 및 AI 서버 구축 및 배포<br>- Project Management 및 Documentations |
 | 하동윤 (Dongyun Ha)  | 20212007 | AI / 기획      | - 텍스트 유사도 매칭 및 STT AI 모델 implementation<br>- 프로젝트 기획 및 QA             |
 
 ---
