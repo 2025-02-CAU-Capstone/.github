@@ -1,6 +1,6 @@
 # P2L - Problem to Lecture
 
-## 2025 Fall Semester Capstone Design (1) - Team 6 (Guebeen Lee, Mingyu Lee, Dongyun Ha)
+## 2025 Fall Semester Capstone Design (1) - Team 6
 
 ## 교재·문제 기반 인강 챕터 자동 매핑 시스템
 
@@ -110,12 +110,9 @@
 
 | 이름 | 학번 | 역할 | 상세 내용 |
 | --- | --- | --- | --- |
-| 이규빈 (Guebeen Lee) | 20235908 | AI / FE | - 텍스트 추출 AI 모델 implementation
-- 프런트엔드측 UI/UX 구축 |
-| 이민규 (Mingyu Lee) | 20215143 | BE / FE / PM | - 프런트엔드, 백엔드 및 AI 서버 구축 및 배포
-- Project Management 및 Documentations |
-| 하동윤 (Dongyun Ha) | 20212007 | AI / 기획 | - 텍스트 유사도 매칭 및 STT (Speech-to-text) AI 모델 implementation
-- 프로젝트 기획 및 QA |
+| 이규빈 (Guebeen Lee) | 20235908 | AI / FE | - 텍스트 추출 AI 모델 implementation<br>- 프런트엔드측 UI/UX 구축 |
+| 이민규 (Mingyu Lee) | 20215143 | BE / FE / PM | - 프런트엔드, 백엔드 및 AI 서버 구축 및 배포<br>- Project Management 및 Documentations |
+| 하동윤 (Dongyun Ha) | 20212007 | AI / 기획 | - 텍스트 유사도 매칭 및 STT AI 모델 implementation<br>- 프로젝트 기획 및 QA |
 
 ### 7. Technology Stack (기술 스택)
 
